@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "918975195561",
+    "project_id": "rummy-krudaiz",
+    "storage_bucket": "rummy-krudaiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918975195561:android:2f66233ac3d24b162e7cb8",
+        "android_client_info": {
+          "package_name": "com.enixo.RummyKrudaiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918975195561-0nf2mgq330phnebp5mejisoiqhjjv90b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enixo.RummyKrudaiz",
+            "certificate_hash": "c78b693a21ecf191d5de70c9264fbd12504923d5"
+          }
+        },
+        {
+          "client_id": "918975195561-kb94obqe49aqdeqb5ktov50mpgouu5o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJXpiRHec2m_rzq52F0Z4_lh5kzaRnKqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918975195561-kb94obqe49aqdeqb5ktov50mpgouu5o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

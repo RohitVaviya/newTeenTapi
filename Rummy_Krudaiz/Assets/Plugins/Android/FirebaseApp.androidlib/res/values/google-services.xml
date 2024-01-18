@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">918975195561</string>
+  <string name="google_storage_bucket" translatable="false">rummy-krudaiz.appspot.com</string>
+  <string name="project_id" translatable="false">rummy-krudaiz</string>
+  <string name="google_api_key" translatable="false">AIzaSyDJXpiRHec2m_rzq52F0Z4_lh5kzaRnKqc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDJXpiRHec2m_rzq52F0Z4_lh5kzaRnKqc</string>
+  <string name="google_app_id" translatable="false">1:918975195561:android:2f66233ac3d24b162e7cb8</string>
+  <string name="default_android_client_id" translatable="false">918975195561-0nf2mgq330phnebp5mejisoiqhjjv90b.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">918975195561-kb94obqe49aqdeqb5ktov50mpgouu5o9.apps.googleusercontent.com</string>
+</resources>
